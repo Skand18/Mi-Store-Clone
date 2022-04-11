@@ -1,0 +1,29 @@
+#bannerimage {
+  filter: brightness(59%);
+  z-index: -1;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+#banner h3 {
+  z-index: 1;
+
+  bottom: 353px;
+  width: 500px;
+  left: 278px;
+  font-size: 38px;
+  position: absolute;
+  font-weight: 400;
+}
+
+.x {
+  width: 700px;
+  left: 200px;
+  font-weight: 200;
+  position: relative;
+  bottom: 140px;
+}
+.y {
+  position: relative;
+  bottom: 156px;
+  left: 17px;
+}
